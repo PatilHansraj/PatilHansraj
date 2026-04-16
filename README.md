@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=HANSRAJ&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=java%20full%20stack%20developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=HANSRAJ&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=explore" alt="Typing introduction" />
@@ -29,7 +29,7 @@
   <img src="https://streak-stats.demolab.com/?user=PatilHansraj&theme=radical&hide_border=true&cache_seconds=86400" alt="PatilHansraj's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=PatilHansraj&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="hasnraj's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=PatilHansraj&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="hansraj's GitHub Trophies" />
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
